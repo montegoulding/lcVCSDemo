@@ -1,0 +1,20 @@
+{
+  "class": "com.runrev.engine.button",
+  "customPropertySets": {
+    "cREVGeneral": {
+      "revUniqueID": "1363433125621"
+    }
+  },
+  "properties": {
+    "armBorder": "false",
+    "autoHilite": "false",
+    "menuMode": "option",
+    "name": "planet",
+    "rect": "126,24,228,46",
+    "style": "menu",
+    "textAlign": "center",
+    "traversalOn": "false",
+    "unicodeLabel": "Earth",
+    "unicodeText": "Earth\nMars\nVenus"
+  }
+}

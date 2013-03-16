@@ -1,3 +1,3 @@
 on mouseUp
-   put "Hello World" into fld 1
+   put "Hello "&the label of btn "planet"&"!" into fld 1
 end mouseUp
