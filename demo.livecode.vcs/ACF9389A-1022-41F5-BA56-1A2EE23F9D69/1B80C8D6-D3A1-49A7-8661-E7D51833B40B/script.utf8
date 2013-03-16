@@ -1,0 +1,3 @@
+on mouseUp
+   put "Hello World" into fld 1
+end mouseUp

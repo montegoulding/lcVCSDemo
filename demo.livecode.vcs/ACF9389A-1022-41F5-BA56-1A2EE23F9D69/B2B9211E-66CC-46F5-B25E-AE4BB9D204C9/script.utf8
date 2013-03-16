@@ -1,0 +1,3 @@
+on lcVCSExport
+   put "" into me
+end lcVCSExport

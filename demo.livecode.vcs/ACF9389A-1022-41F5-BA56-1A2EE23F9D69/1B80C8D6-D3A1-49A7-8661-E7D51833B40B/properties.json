@@ -1,0 +1,14 @@
+{
+  "class": "com.runrev.engine.button",
+  "customPropertySets": {
+    "cREVGeneral": {
+      "revUniqueID": "1363404943360"
+    }
+  },
+  "properties": {
+    "name": "Button",
+    "rect": "30,22,112,45",
+    "textAlign": "center",
+    "traversalOn": "false"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "class": "com.runrev.engine.stack",
+  "name": "demo",
+  "objects": [
+    {
+      "class": "com.runrev.engine.card",
+      "name": "card id 0",
+      "objects": [
+        {
+          "class": "com.runrev.engine.button",
+          "name": "Button",
+          "uuid": "1B80C8D6-D3A1-49A7-8661-E7D51833B40B"
+        },
+        {
+          "class": "com.runrev.engine.field",
+          "name": "Field",
+          "uuid": "B2B9211E-66CC-46F5-B25E-AE4BB9D204C9"
+        }
+      ],
+      "uuid": "65405F61-5062-46DA-8EC2-4748E5524DC6"
+    }
+  ],
+  "uuid": "ACF9389A-1022-41F5-BA56-1A2EE23F9D69"
+}

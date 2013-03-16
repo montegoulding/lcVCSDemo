@@ -1,0 +1,9 @@
+{
+  "class": "com.runrev.engine.stack",
+  "properties": {
+    "decorations": "title,menu,minimize,maximize,close",
+    "height": "208",
+    "name": "demo",
+    "width": "323"
+  }
+}
