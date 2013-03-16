@@ -7,7 +7,7 @@
   },
   "properties": {
     "name": "Field",
-    "rect": "10,40,200,61",
+    "rect": "10,80,318,101",
     "textAlign": "left"
   }
 }

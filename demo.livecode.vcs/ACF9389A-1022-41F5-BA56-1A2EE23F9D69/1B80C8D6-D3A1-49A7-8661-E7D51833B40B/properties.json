@@ -6,8 +6,10 @@
     }
   },
   "properties": {
+    "icon": "2C696189-859B-4A57-AFD4-E21FA30636B5",
     "name": "Hello World",
-    "rect": "10,12,92,35",
+    "rect": "10,12,92,74",
+    "showIcon": "true",
     "textAlign": "center",
     "traversalOn": "false"
   }

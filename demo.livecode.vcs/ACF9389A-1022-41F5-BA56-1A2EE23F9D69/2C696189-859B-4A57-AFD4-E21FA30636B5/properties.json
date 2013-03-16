@@ -1,0 +1,13 @@
+{
+  "class": "com.runrev.engine.image",
+  "customPropertySets": {
+    "cREVGeneral": {
+      "revUniqueID": "1363433651738"
+    }
+  },
+  "properties": {
+    "rect": "145,88,177,120",
+    "unicodeToolTip": "210009",
+    "visible": "false"
+  }
+}
