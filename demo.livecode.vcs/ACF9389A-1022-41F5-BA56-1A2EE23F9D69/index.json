@@ -8,7 +8,7 @@
       "objects": [
         {
           "class": "com.runrev.engine.button",
-          "name": "Button",
+          "name": "Hello World",
           "uuid": "1B80C8D6-D3A1-49A7-8661-E7D51833B40B"
         },
         {
