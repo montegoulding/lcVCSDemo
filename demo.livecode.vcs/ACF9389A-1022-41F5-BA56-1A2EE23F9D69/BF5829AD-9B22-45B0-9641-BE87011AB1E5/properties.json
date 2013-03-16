@@ -10,7 +10,7 @@
     "autoHilite": "false",
     "menuMode": "option",
     "name": "planet",
-    "rect": "126,24,228,46",
+    "rect": "98,13,200,35",
     "style": "menu",
     "textAlign": "center",
     "traversalOn": "false",
