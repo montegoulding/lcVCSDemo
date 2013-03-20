@@ -1,0 +1,19 @@
+{
+  "class": "com.runrev.engine.button",
+  "customPropertySets": {
+    "cREVGeneral": {
+      "revUniqueID": "1363769415575"
+    }
+  },
+  "properties": {
+    "hiliteBorder": "false",
+    "layer": "4",
+    "name": "Check",
+    "opaque": "false",
+    "rect": "216,20,298,43",
+    "showBorder": "false",
+    "style": "checkbox",
+    "textAlign": "left"
+  },
+  "uuid": "923B4777-E8F0-4789-8DFE-FFBD007DED19"
+}
