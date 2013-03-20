@@ -6,8 +6,9 @@
     }
   },
   "properties": {
+    "layer": "2",
     "name": "Field",
-    "rect": "10,80,318,101",
-    "textAlign": "left"
-  }
+    "rect": "10,80,318,101"
+  },
+  "uuid": "B2B9211E-66CC-46F5-B25E-AE4BB9D204C9"
 }

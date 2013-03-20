@@ -1,3 +1,0 @@
-on mouseUp
-   put "Hello "&the label of btn "planet"&"!" into fld 1
-end mouseUp

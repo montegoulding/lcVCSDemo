@@ -6,11 +6,12 @@
     }
   },
   "properties": {
-    "icon": "2C696189-859B-4A57-AFD4-E21FA30636B5",
+    "icon": "CD49539E-425B-41F9-B4C5-1ABFC8E6F914",
+    "layer": "1",
     "name": "Hello World",
     "rect": "10,12,92,74",
     "showIcon": "true",
-    "textAlign": "center",
     "traversalOn": "false"
-  }
+  },
+  "uuid": "1B80C8D6-D3A1-49A7-8661-E7D51833B40B"
 }
