@@ -6,9 +6,9 @@
     }
   },
   "properties": {
-    "layer": "4",
+    "layer": "5",
     "name": "Button",
-    "rect": "60,124,142,147",
+    "rect": "224,128,306,151",
     "traversalOn": "false"
   },
   "uuid": "6ED4B728-ABDC-46B0-BC31-1E44A31DDF6A"
