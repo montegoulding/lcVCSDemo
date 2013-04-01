@@ -1,0 +1,15 @@
+{
+  "class": "com.runrev.engine.button",
+  "customPropertySets": {
+    "cREVGeneral": {
+      "revUniqueID": "1364816426605"
+    }
+  },
+  "properties": {
+    "layer": "7",
+    "name": "Button",
+    "rect": "76,170,158,193",
+    "traversalOn": "false"
+  },
+  "uuid": "DA2BCA4F-E3FF-4D1B-86FD-E17DF2B8FB77"
+}
