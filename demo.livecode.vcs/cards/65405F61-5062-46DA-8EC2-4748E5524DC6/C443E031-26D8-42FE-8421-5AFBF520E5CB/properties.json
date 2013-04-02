@@ -7,7 +7,8 @@
   },
   "properties": {
     "alwaysBuffer": "true",
-    "layer": "6",
+    "id": "1008",
+    "layer": "7",
     "name": "info.gif",
     "paintCompression": "gif",
     "rect": "24,26,57,59",

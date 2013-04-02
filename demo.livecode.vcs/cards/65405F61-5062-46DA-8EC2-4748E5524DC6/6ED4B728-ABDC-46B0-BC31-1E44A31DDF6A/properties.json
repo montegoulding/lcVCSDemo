@@ -6,7 +6,8 @@
     }
   },
   "properties": {
-    "layer": "5",
+    "id": "1005",
+    "layer": "6",
     "name": "Button",
     "rect": "224,128,306,151",
     "traversalOn": "false"

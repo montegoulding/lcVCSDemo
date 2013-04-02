@@ -7,9 +7,10 @@
   },
   "properties": {
     "icon": "CD49539E-425B-41F9-B4C5-1ABFC8E6F914",
-    "layer": "1",
+    "id": "1004",
+    "layer": "2",
     "name": "Hello World",
-    "rect": "12,122,94,184",
+    "rect": "120,140,202,202",
     "showIcon": "true",
     "traversalOn": "false"
   },

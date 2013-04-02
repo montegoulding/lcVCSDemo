@@ -6,7 +6,8 @@
     }
   },
   "properties": {
-    "layer": "2",
+    "id": "1007",
+    "layer": "3",
     "name": "Field",
     "rect": "10,80,318,101"
   },
