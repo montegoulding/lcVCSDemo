@@ -6,10 +6,10 @@
     }
   },
   "properties": {
-    "id": "1013",
-    "layer": "9",
+    "id": "1016",
+    "layer": "10",
     "name": "id1013",
-    "rect": "74,16,156,39",
+    "rect": "68,48,150,71",
     "traversalOn": "false"
   },
   "uuid": "79F270DA-9E6D-4C1B-BBD4-1BF1C50C09AB"
