@@ -4,6 +4,12 @@
   "customPropertySets": {
     "cREVGeneral": {
       "revUniqueID": "1364895628752"
+    },
+    "noconflict": {
+      "hello": "world"
+    },
+    "test": {
+      "data": "something"
     }
   },
   "properties": {
