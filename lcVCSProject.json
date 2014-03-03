@@ -1,6 +1,17 @@
 {
   "build path": "",
   "name": "lcVCSDemo",
+  "plugins": [
+    "cREVGeneralAll",
+    "cREVGeometry",
+    "cREVGeometryCache",
+    "cRevStandaloneSettings",
+    "cREVTable",
+    "dataviewProps",
+    "GLX2",
+    "mAppProps"
+  ],
+  "resource paths": "",
   "stackFiles": [
     "demo.livecode"
   ]
