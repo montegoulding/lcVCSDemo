@@ -1,11 +1,6 @@
 {
   "UUID": "B2B9211E-66CC-46F5-B25E-AE4BB9D204C9",
   "class": "com.runrev.engine.field",
-  "customPropertySets": {
-    "cREVGeneral": {
-      "revUniqueID": "1363404961002"
-    }
-  },
   "properties": {
     "altId": "0",
     "autoHilite": "true",
@@ -42,7 +37,6 @@
     "ink": "srcCopy",
     "innerGlow": "",
     "innerShadow": "",
-    "layer": "4",
     "layerMode": "static",
     "listBehavior": "false",
     "lockLoc": "false",

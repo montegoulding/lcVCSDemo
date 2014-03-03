@@ -2,9 +2,6 @@
   "UUID": "79F270DA-9E6D-4C1B-BBD4-1BF1C50C09AB",
   "class": "com.runrev.engine.button",
   "customPropertySets": {
-    "cREVGeneral": {
-      "revUniqueID": "1364895628752"
-    },
     "noconflict": {
       "hello": "world"
     },
@@ -57,7 +54,6 @@
     "innerShadow": "",
     "label": "",
     "labelWidth": "0",
-    "layer": "10",
     "layerMode": "static",
     "lockLoc": "false",
     "margins": "4",

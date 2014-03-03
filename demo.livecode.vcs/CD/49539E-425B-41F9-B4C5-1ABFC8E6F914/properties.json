@@ -1,11 +1,6 @@
 {
   "UUID": "CD49539E-425B-41F9-B4C5-1ABFC8E6F914",
   "class": "com.runrev.engine.image",
-  "customPropertySets": {
-    "cREVGeneral": {
-      "revUniqueID": "1363767992337"
-    }
-  },
   "properties": {
     "altId": "0",
     "alwaysBuffer": "true",
@@ -25,7 +20,6 @@
     "disabled": "false",
     "dontDither": "false",
     "dropShadow": "",
-    "fileName": "",
     "focusColor": "",
     "focusPattern": "",
     "foreColor": "",
@@ -37,7 +31,6 @@
     "ink": "srcCopy",
     "innerGlow": "",
     "innerShadow": "",
-    "layer": "5",
     "layerMode": "static",
     "lockLoc": "false",
     "name": "warning.gif",

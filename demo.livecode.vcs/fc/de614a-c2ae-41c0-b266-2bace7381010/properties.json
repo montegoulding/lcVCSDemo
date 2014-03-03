@@ -1,11 +1,6 @@
 {
-  "UUID": "8ea89648-e463-47c2-a6c1-61c9f444a897",
+  "UUID": "fcde614a-c2ae-41c0-b266-2bace7381010",
   "class": "com.runrev.engine.button",
-  "customPropertySets": {
-    "cREVGeneral": {
-      "revUniqueID": "1379484329020"
-    }
-  },
   "properties": {
     "accelKey": "",
     "accelMods": "",
@@ -50,7 +45,6 @@
     "innerShadow": "",
     "label": "",
     "labelWidth": "0",
-    "layer": "3",
     "layerMode": "static",
     "lockLoc": "false",
     "margins": "4",
@@ -63,7 +57,7 @@
     "name": "Button",
     "opaque": "true",
     "outerGlow": "",
-    "rect": "24,150,106,173",
+    "rect": "116,134,198,157",
     "shadow": "false",
     "shadowColor": "",
     "shadowOffset": "4",
@@ -74,7 +68,7 @@
     "showHilite": "false",
     "showIcon": "false",
     "showName": "true",
-    "style": "standard",
+    "style": "rectangle",
     "text": "",
     "textAlign": "center",
     "textFont": "",

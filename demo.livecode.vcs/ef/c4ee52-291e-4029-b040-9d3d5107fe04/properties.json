@@ -1,11 +1,6 @@
 {
   "UUID": "efc4ee52-291e-4029-b040-9d3d5107fe04",
   "class": "com.runrev.engine.group",
-  "customPropertySets": {
-    "cREVGeneral": {
-      "revUniqueID": "1379051317589"
-    }
-  },
   "properties": {
     "altId": "0",
     "backColor": "",
@@ -39,13 +34,10 @@
     "innerGlow": "",
     "innerShadow": "",
     "label": "",
-    "layer": {
-      "a79d65b3-644f-415b-a11d-7cac514df8c0": "1"
-    },
     "layerMode": "static",
     "lockLoc": "false",
     "margins": "4",
-    "name": "",
+    "name": "group id 1031",
     "opaque": "false",
     "outerGlow": "",
     "radioBehavior": "true",
